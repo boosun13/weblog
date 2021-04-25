@@ -16,4 +16,6 @@ app.use("/search/", require("./routes/search.js"));
 
 app.use(systemlogger());
 
+app.use(systemlogger());
+
 app.listen(3000);
