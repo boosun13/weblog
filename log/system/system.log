@@ -1,1 +1,92 @@
 [2021-04-23T23:37:44.448] [ERROR] system - sample
+[2021-04-25T22:06:32.332] [ERROR] system - c:\study\weblog\views\posts\index.ejs:21
+    19|       <div class="border-bottom mt-5 mb-5">
+    20|         <h1>
+ >> 21|           <%= title %>
+    22|         </h1>
+    23|       </div>
+    24|       <dl class="row mt-5 mb-5">
+
+title is not defined
+[2021-04-25T22:07:54.965] [ERROR] system - c:\study\weblog\views\posts\index.ejs:27
+    25|         <dt class="col-3">公開日:</dt>
+    26|         <dd class="col-9">
+ >> 27|           <%= publiched.toLocalseString() %>
+    28|         </dd>
+    29|         <dt class="col-3">著者:</dt>
+    30|         <dd class="col-9">
+
+publiched is not defined
+[2021-04-25T22:08:12.613] [ERROR] system - c:\study\weblog\views\posts\index.ejs:27
+    25|         <dt class="col-3">公開日:</dt>
+    26|         <dd class="col-9">
+ >> 27|           <%= publiched.toLocalseString() %>
+    28|         </dd>
+    29|         <dt class="col-3">著者:</dt>
+    30|         <dd class="col-9">
+
+publiched is not defined
+[2021-04-25T22:08:19.676] [ERROR] system - c:\study\weblog\views\posts\index.ejs:27
+    25|         <dt class="col-3">公開日:</dt>
+    26|         <dd class="col-9">
+ >> 27|           <%= publiched.toLocalseString() %>
+    28|         </dd>
+    29|         <dt class="col-3">著者:</dt>
+    30|         <dd class="col-9">
+
+publiched is not defined
+[2021-04-25T22:08:57.351] [ERROR] system - c:\study\weblog\views\posts\index.ejs:27
+    25|         <dt class="col-3">公開日:</dt>
+    26|         <dd class="col-9">
+ >> 27|           <%= published.toLocalseString() %>
+    28|         </dd>
+    29|         <dt class="col-3">著者:</dt>
+    30|         <dd class="col-9">
+
+published.toLocalseString is not a function
+[2021-04-25T23:43:42.320] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:43:45.167] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:43:46.268] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:43:53.014] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:43:54.418] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:43:55.487] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:44:11.738] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:45:49.548] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2021-04-25T23:45:51.694] [ERROR] system - Unexpected token ';' in c:\study\weblog\views\search\list.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+

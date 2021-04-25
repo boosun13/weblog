@@ -11,6 +11,10 @@ app.use("/public", express.static(__dirname + "/public/" + (process.env.NODE_ENV
 app.use(accesslogger());
 
 app.use("/", require("./routes/index.js"));
+app.use("/posts/", require("./routes/posts.js"));
+app.use("/search/", require("./routes/search.js"));
+
+app.use(systemlogger());
 
 app.use(systemlogger());
 
