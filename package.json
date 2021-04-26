@@ -12,6 +12,7 @@
   "author": "shuda",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "bootstrap": "^4.6.0",
     "ejs": "^2.7.4",
     "eslint": "^4.19.1",
