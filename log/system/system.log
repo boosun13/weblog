@@ -90,3 +90,15 @@ If the above error is not helpful, you may want to try EJS-Lint:
 https://github.com/RyanZim/EJS-Lint
 Or, if you meant to create an async function, pass `async: true` as an option.
 
+[2021-04-26T22:22:51.221] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:22:51.224] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:12.330] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:12.333] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:22.974] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:22.979] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:50.264] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:50.273] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:52.639] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:52.640] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:58.278] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-26T22:23:58.280] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
