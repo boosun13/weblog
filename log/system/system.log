@@ -102,3 +102,21 @@ Or, if you meant to create an async function, pass `async: true` as an option.
 [2021-04-26T22:23:52.640] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
 [2021-04-26T22:23:58.278] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
 [2021-04-26T22:23:58.280] [ERROR] system - Failed to lookup view "./account/inde.ejs" in views directory "c:\study\weblog\views"
+[2021-04-30T00:56:10.474] [ERROR] system - c:\study\weblog\views\account\posts\regist-form.ejs:29
+    27|           var original = locals.original ||{}; 
+    28|         %>
+ >> 29|         <% if (local.errors) {%> 
+    30|           <% for (var key in errors) { %> 
+    31|             <div><i class="fa fa-exclamation-circle fa-fw mr-2"></i><%= errors[key] %></div>
+    32|           <% } %> 
+
+local is not defined
+[2021-04-30T00:56:10.480] [ERROR] system - c:\study\weblog\views\account\posts\regist-form.ejs:29
+    27|           var original = locals.original ||{}; 
+    28|         %>
+ >> 29|         <% if (local.errors) {%> 
+    30|           <% for (var key in errors) { %> 
+    31|             <div><i class="fa fa-exclamation-circle fa-fw mr-2"></i><%= errors[key] %></div>
+    32|           <% } %> 
+
+local is not defined
