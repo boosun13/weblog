@@ -120,3 +120,45 @@ local is not defined
     32|           <% } %> 
 
 local is not defined
+[2021-05-10T22:44:47.334] [ERROR] system - secret option required for sessions
+[2021-05-10T22:44:47.341] [ERROR] system - secret option required for sessions
+[2021-05-10T22:45:13.074] [ERROR] system - secret option required for sessions
+[2021-05-10T22:45:13.077] [ERROR] system - secret option required for sessions
+[2021-05-10T22:45:14.140] [ERROR] system - secret option required for sessions
+[2021-05-10T22:45:14.150] [ERROR] system - secret option required for sessions
+[2021-05-10T22:45:56.245] [ERROR] system - secret option required for sessions
+[2021-05-10T22:45:56.247] [ERROR] system - secret option required for sessions
+[2021-05-10T22:49:01.898] [ERROR] system - secret option required for sessions
+[2021-05-10T22:49:01.906] [ERROR] system - secret option required for sessions
+[2021-05-10T22:51:58.061] [ERROR] system - secret option required for sessions
+[2021-05-10T22:51:58.083] [ERROR] system - secret option required for sessions
+[2021-05-10T22:54:33.854] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T22:54:33.862] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T22:57:30.811] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T22:57:30.815] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T22:59:05.969] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T22:59:05.971] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T22:59:11.567] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T22:59:11.567] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T23:00:15.933] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T23:00:15.936] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T23:00:35.197] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T23:00:35.199] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T23:00:43.764] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T23:00:43.768] [ERROR] system - Cannot read property '_csrf' of undefined
+[2021-05-10T23:01:25.275] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:01:25.283] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:02:49.016] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:02:49.017] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:05:07.835] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:05:07.835] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:05:12.523] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:05:12.524] [ERROR] system - tokens.varify is not a function
+[2021-05-10T23:05:24.779] [ERROR] system - Invalid Token.
+[2021-05-10T23:05:24.784] [ERROR] system - Invalid Token.
+[2021-05-10T23:05:41.685] [ERROR] system - Invalid Token.
+[2021-05-10T23:05:41.688] [ERROR] system - Invalid Token.
+[2021-05-10T23:09:33.127] [ERROR] system - Invalid Token.
+[2021-05-10T23:09:33.131] [ERROR] system - Invalid Token.
+[2021-05-10T23:14:06.366] [ERROR] system - Invalid Token.
+[2021-05-10T23:14:06.369] [ERROR] system - Invalid Token.
