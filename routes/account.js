@@ -68,7 +68,7 @@ router.post("/posts/regist/execute", (req, res) => {
   var secret = req.session._csrf;
   var token = req.cookies._csrf;
 
-  if(tokens.verify(secret, token) === false){
+  if (tokens.verify(secret, token) === false) {
     throw new Error("Invalid Token.");
   }
 
