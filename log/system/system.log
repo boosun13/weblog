@@ -162,3 +162,17 @@ local is not defined
 [2021-05-10T23:09:33.131] [ERROR] system - Invalid Token.
 [2021-05-10T23:14:06.366] [ERROR] system - Invalid Token.
 [2021-05-10T23:14:06.369] [ERROR] system - Invalid Token.
+[2021-05-13T23:14:49.286] [ERROR] system - Failed to lookup view "./account/log.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:14:49.289] [ERROR] system - Failed to lookup view "./account/log.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:15:32.002] [ERROR] system - Failed to lookup view "./account/log.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:15:32.007] [ERROR] system - Failed to lookup view "./account/log.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:15:41.161] [ERROR] system - Failed to lookup view "./account/login.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:15:41.162] [ERROR] system - Failed to lookup view "./account/login.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:16:23.265] [ERROR] system - Failed to lookup view "./account/login.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:16:23.272] [ERROR] system - Failed to lookup view "./account/login.ejs" in views directory "c:\study\weblog\views"
+[2021-05-13T23:31:31.111] [ERROR] system - Cannot set headers after they are sent to the client
+[2021-05-13T23:31:31.114] [ERROR] system - Cannot set headers after they are sent to the client
+[2021-05-13T23:33:54.447] [ERROR] system - Cannot set headers after they are sent to the client
+[2021-05-13T23:33:54.451] [ERROR] system - Cannot set headers after they are sent to the client
+[2021-05-13T23:35:30.473] [ERROR] system - Cannot set headers after they are sent to the client
+[2021-05-13T23:35:30.478] [ERROR] system - Cannot set headers after they are sent to the client
