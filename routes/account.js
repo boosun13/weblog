@@ -24,6 +24,7 @@ var validateRegistData = function (body) {
 
   return isValidated ? undefined : errors;
 };
+
 var createRegistData = function (body) {
   var datetime = new Date();
   return {
@@ -46,6 +47,11 @@ router.get("/login", (req, res) => {
 });
 
 router.post("/login", authenticate());
+
+router.post("/logout", (req, res) => {
+  req.logout();
+  res.redirect("/account/login");
+});
 
 router.get("/posts/regist", authorize("readWrite"), (req, res) => {
   tokens.secret((error, secret) => {
